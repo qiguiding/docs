@@ -23,6 +23,7 @@ module.exports = {
         ],
         sidebar: [
             '/',
+            'vue2',
             'note',
           ]
     }
